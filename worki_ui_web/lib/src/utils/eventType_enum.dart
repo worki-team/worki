@@ -1,0 +1,7 @@
+enum EvenType{
+    ADVERTISING,
+    LOGISTICS,
+    MARKET_STUDIES,
+    OTHER,
+    PRODUCTION
+}

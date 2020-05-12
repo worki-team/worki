@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631405014916",
+    "firebase_url": "https://worki2020.firebaseio.com",
+    "project_id": "worki2020",
+    "storage_bucket": "worki2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631405014916:android:e5e1baddc850ea02f4b7d1",
+        "android_client_info": {
+          "package_name": "com.example.worki_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631405014916-pm3snaedrl8s4i7ss7hls55ialu3upd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.worki_ui",
+            "certificate_hash": "7b0409fcd4b04d4f71f0e67fa7898df7ac73bbea"
+          }
+        },
+        {
+          "client_id": "631405014916-28bohts0qngsb8flh023e7j1nqujqr21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ6b-KD1y2Vcy8yWZM_K-VzssUkUgZbyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631405014916-28bohts0qngsb8flh023e7j1nqujqr21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
