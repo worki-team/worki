@@ -157,7 +157,7 @@ public class CompanyController {
         List<Job> jobs = jobRepository.findByCompanyId(companyId);
         Set<String> workersId = new HashSet<String>();
         for (Job job : jobs) {
-            for (String id : job.getworkersId()) {
+            for (String id : job.getRegisteredIds()) {
                 Optional<Worker> worker = workerRepository.findById(id);
                 if (worker.isPresent() && !workersId.contains(worker.get().getId())) {
                     workersId.add(worker.get().getId());
@@ -181,7 +181,7 @@ public class CompanyController {
         List<Job> jobs = jobRepository.findByCompanyId(companyId);
         Set<String> workersId = new HashSet<String>();
         for (Job job : jobs) {
-            for (String id : job.getworkersId()) {
+            for (String id : job.getRegisteredIds()) {
                 Optional<Worker> worker = workerRepository.findById(id);
                 if (worker.isPresent() && !workersId.contains(worker.get().getId())) {
                     workersId.add(worker.get().getId());
