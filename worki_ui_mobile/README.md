@@ -1,4 +1,4 @@
-# worki_ui
+# worki_ui_mobile
 
 A new Flutter project.
 
