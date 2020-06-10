@@ -9,7 +9,7 @@ You can find:
 * [Flutter project - Mobile](/worki_ui_mobile)
 * [Flutter project - Web](/worki_ui_web)
 
-[Here](https://youtu.be/9qPZ9v8_iP0) you can access to the video with the main features of the software.
+[Here](https://youtu.be/9qPZ9v8_iPo) you can access to the video with the main features of the software.
  
 If you want to contact the developers to request access to the branches, commits, progress of the private repository please email: 
 
