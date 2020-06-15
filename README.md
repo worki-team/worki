@@ -9,7 +9,7 @@ You can find:
 * [Flutter project - Mobile](/worki_ui_mobile)
 * [Flutter project - Web](/worki_ui_web)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9qPZ9v8_iP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Here](https://www.youtube.com/embed/9qPZ9v8_iP0) you can see the main features of Worki.
 
 If you want to contact the developers to request access to the branches, commits, progress of the private repository please email: 
 
